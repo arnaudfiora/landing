@@ -1,0 +1,15 @@
+.banner {
+  background-image: url(../../images/thailand.png);
+  background-size: cover;
+  height: 500px;
+  opacity: 0.8;
+}
+
+.banner > .container {
+  padding-top: 1px;
+  text-align: left;
+}
+
+.banner p {
+  margin-bottom: 33px;
+}

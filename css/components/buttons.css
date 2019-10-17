@@ -1,0 +1,14 @@
+.btn-look {
+  background: #EB574C;
+  padding: 8px 12px;
+  border-radius: 30px;
+
+  color: white;
+  font-size: 14px;
+  font-weight: bold
+}
+
+.btn-look:hover {
+  background: white;
+  color: #EB574C;
+}

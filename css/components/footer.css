@@ -1,0 +1,37 @@
+footer {
+  text-align: center;
+  background-color: rgba(235, 87, 76, 0.5);
+  background-size: cover;
+
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+footer .list-inline {
+  margin: 0;
+  padding-bottom: 0;
+}
+
+footer .list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 48px;
+  color: white;
+}
+
+footer p {
+  margin-bottom: 0;
+  padding-bottom: 20px;
+
+  font-size: 14px;
+  font-weight: bold;
+  color: rgba(235, 87, 76, 1);
+}
+
+.fab {
+  color: rgba(235, 87, 76, 1);
+}
+
+.fab:hover {
+  color: white;
+}

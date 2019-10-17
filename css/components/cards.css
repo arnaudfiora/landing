@@ -1,0 +1,30 @@
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 40px;
+}
+
+.card {
+  width: 200px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.card > img {
+  padding-top: 25px;
+  width: 150px;
+  height: 150px;
+}
+
+.card > p {
+  padding: 0 15px;
+  color: rgba(235, 87, 76, 1);
+}
+
+.card > h3 {
+  margin: 10px 0;
+}
